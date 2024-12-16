@@ -13,4 +13,3 @@ Structure:
 - src/dendrites/forward - Strategy for forward (simulation step-by-step)
 - src/dendrites/voltage_cache_tables - Optimization to allow parallel execution in pytorch
 - tests/ - Tests for this project
-- 
